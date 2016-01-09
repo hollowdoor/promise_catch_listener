@@ -1,0 +1,24 @@
+{
+  "name": "promise-catch-listener",
+  "version": "1.0.0",
+  "description": "Print errors from a callback.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "errors",
+    "handling",
+    "callback",
+    "error"
+  ],
+  "author": "Quentin Engles <hollowdoor99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "stacktrace-parser": "^0.1.3"
+  }
+}
